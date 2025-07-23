@@ -62,4 +62,13 @@ body {
   .btn:hover {
     background: rgba(255, 255, 255, 0.4);
   }
-  
+  .cod-username {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.cod-username i {
+  margin-right: 5px;
+  color: #facc15; /* yellow gamepad icon */
+}
