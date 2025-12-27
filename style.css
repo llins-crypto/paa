@@ -71,8 +71,25 @@ body {
   margin-bottom: 10px;
   color: #fff;
 }
+#uiddisplay {
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: black;
+  color: #2299dd;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-family: monospace;
+  font-size: 14px;
+  box-shadow: 0 0 10px rgba(243, 14, 155, 0.859);
+}
+
+
+
 
 .cod-username i {
   margin-right: 5px;
   color: #facc15; /* yellow gamepad icon */
+
 }
